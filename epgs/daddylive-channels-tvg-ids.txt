@@ -583,3 +583,16 @@ SkySportsPremierLeague.uk
 Nova.Sport.bg
 Sporting.TV.HD.pt
 CBC.(CBLT).Toronto,.ON.ca
+AMC (East).us
+HBO (East).us
+HBO Zone (East).us
+HBO 2 (East).us
+Showtime (East).us
+Showtime Extreme (East).us
+Showtime 2 (East).us
+Paramount Network (East).us
+Cinemax (East).us
+FX Movie Channel.us
+HBO Comedy (East).us
+HBO Family (East).us
+Showtime FamilyZone (East).us
