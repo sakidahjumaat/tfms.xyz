@@ -596,3 +596,4 @@ FX Movie Channel.us
 HBO Comedy (East).us
 HBO Family (East).us
 Showtime FamilyZone (East).us
+MGM+ HD  East.us
