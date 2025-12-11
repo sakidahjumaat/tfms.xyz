@@ -116,6 +116,7 @@ urls = [
     "https://epgshare01.online/epgshare01/epg_ripper_UY1.xml.gz",
     "https://epgshare01.online/epgshare01/epg_ripper_ZA1.xml.gz",
     "https://www.open-epg.com/files/unitedstates1.xml.gz";
+    "https://www.open-epg.com/files/unitedstates10.xml.gz";
 ]
 
 if __name__ == "__main__":
